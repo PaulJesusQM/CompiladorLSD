@@ -1,0 +1,20 @@
+//Melodia Titanic
+G-> 
+BPM = 60
+
+
+
+
+C5,redonda P,redonda D5,redonda P,redonda
+G4,negra G5,blanca F5,negra E5,negra D5,blanca
+
+E5,negra F5,negra E5,blanca
+D5,blanca C5,negra B4,negra C5,blanca B4,negra A5,redonda G4,redonda
+
+C5,redonda P,redonda D5,redonda P,redonda
+G4,negra G5,blanca F5,negra E5,negra D5,blanca
+
+E5,negra F5,negra E5,redonda
+D5,negra C5,negra B4,negra P,negra C5,blanca
+B4,negra B4,negra C5,blanca D5,negra E5,blanca D5,blanca
+

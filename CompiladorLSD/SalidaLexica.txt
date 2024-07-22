@@ -1,0 +1,8 @@
+LexToken(CLAVE,'G->')
+LexToken(BPM,'90')
+LexToken(NOTA,'F4')
+LexToken(COMA,',')
+LexToken(DURACION,'negra')
+LexToken(ACORDE,'[A1|A2]')
+LexToken(COMA,',')
+LexToken(DURACION,'blanca')

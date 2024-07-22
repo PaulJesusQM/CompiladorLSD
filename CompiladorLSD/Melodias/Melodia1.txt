@@ -1,0 +1,28 @@
+G->
+BPM = 90
+B3,negra B3,corchea B3,negra B3,corchea 
+B3,negra B3,corchea B3,corchea B3,corchea 
+B3,corchea B3,negra B3,corchea B3,negra 
+B3,corchea B3,negra B3,corchea B3,corchea 
+B3,corchea B3,corchea B3,negra B3,corchea 
+B3,negra B3,corchea B3,negra
+
+A3,corchea C3,corchea D3,negra D3,negra
+D3,corchea E3,corchea F3,negra F3,negra
+F3,corchea G3,corchea E3,negra E3,negra
+D3,corchea C3,corchea C3,corchea D3,negra
+
+A3,corchea C3,corchea D3,negra D3,negra
+D3,corchea E3,corchea F3,negra F3,negra
+F3,corchea G3,corchea E3,negra E3,negra
+D3,corchea C3,corchea C3,corchea D3,negra
+
+A3,corchea C3,corchea D3,negra D3,negra
+D3,corchea E3,corchea F3,negra F3,negra
+F3,corchea G3,corchea E3,negra E3,negra
+D3,corchea C3,corchea C3,corchea D3,negra
+
+A3,corchea C3,corchea D3,negra D3,negra
+D3,corchea F3,corchea G3,negra G3,negra 
+G3,corchea A4,corchea B4,negra B4,negra
+A4,corchea G3,corchea A4,corchea D4,blanca

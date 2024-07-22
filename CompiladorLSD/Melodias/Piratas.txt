@@ -1,0 +1,78 @@
+G-> 
+BPM = 180
+
+D5,negra D5,corchea D5,negra D5,corchea D5,negra
+D5,corchea D5,corchea D5,corchea D5,corchea
+D5,negra D5,corchea D5,negra D5,corchea D5,negra
+D5,corchea D5,corchea D5,corchea D5,corchea
+
+[D5|D3|D2],negra [D5|D3|D2],corchea [D5|D3|D2],negra [D5|D3|D2],corchea [D5|D3|D2],negra
+[D5|D3|D2],corchea [D5|D3|D2],corchea A4,corchea C5,corchea [D5|A4|F4],negra [D5|A4|F4],negra
+
+[D5|A4|F4],corchea [C5|A4|E5],corchea [D5|A#4|F5],negra [D5|A#4|F5],negra [D5|A#4|F5],corchea [D5|G5],corchea
+[C5|A4|E5],negra [C5|A4|E5],negra [D5|A4],corchea [C5|G4],corchea [C5|A4],corchea [A4|D5],blanca
+
+A4,corchea C5,corchea [D5|A#4|F4],negra [D5|A#4|F4],negra 
+
+[D5|A#4],corchea [E5|A#4],corchea [C5|A4|F5],negra [C5|A4|F5],negra [C5|F5],corchea [C5|G5],corchea
+
+[C5|A4|E5],negra [C5|A4|E5],negra [D5|A4],corchea [C5|G4],corchea [F4|A4|D5],blanca
+
+A4,corchea C5,corchea [D5|A#4|F4],negra [D5|A#4|F4],negra 
+
+[D5|A4],corchea [A4|F5],corchea [D5|A#4|G5],negra [D5|A#4|G5],negra [D5|G5],corchea [D5|A5],corchea
+
+[D5|A#5|G5],negra [D5|A#5|G5],negra [F5|A5],corchea [E5|G5],corchea [F5|A5],corchea D5,blanca
+
+D5,corchea E5,corchea [D5|A#4|F5],negra [D5|A#4|F5],negra
+
+[D5|A#4|G5],negra [F5|A5],corchea D5,blanca D5,corchea F5,corchea
+
+[A4|C#5|E5],negra [A4|C#5|E5],negra [D5|F5],corchea [D5|B4],corchea [A4|C#5|E5],blanca
+
+A5,corchea C6,corchea [F5|A5|D6],negra [F5|A5|D6],negra 
+
+[F5|A5|D6],corchea [A5|C6|E6],corchea [A#5|F6|D6],negra [A#5|F6|D6],negra  [A#5|F6|D6],negra [A#5|F6|D6],corchea [G6|D6],corchea
+
+[A5|C6|E6],negra [A5|C6|E6],negra [A5|D6],corchea [G5|C6],corchea [A5|C6],corchea [A5|D6],blanca
+
+A5,corchea C6,corchea [F5|A#5|D6],negra [F5|A#5|D6],negra
+
+[A#5|D6],corchea [A#5|E6],corchea [A5|C6|F6],negra [A5|C6|F6],negra [C6|F6],corchea [C6|G6],corchea
+
+[C6|E6],negra [C6|E6],negra [A5|D6],corchea C6,corchea [F5|A5|D6],blanca
+
+A5,corchea C6,corchea [F5|A5|D6],negra [F5|A5|D6],negra 
+
+[A5|D6],corchea [A5|F6],corchea [A#5|D6|G6],negra [A#5|D6|G6],negra [D6|G6],corchea [D6|A6],corchea
+
+[A#6|D6|G6],negra [A#5|D6|G6],negra [F6|A6],corchea [E6|G6],corchea [F6|A6],corchea D6,blanca
+
+D6,corchea E6,corchea [F6|A#5|D6],negra [F6|A#5|D6],negra
+
+[G6|A#5|D6],negra [F6|A6],corchea D6,blanca D6,corchea F6,corchea
+
+[A5|C#6|E6],negra [A5|C#6|E6],negra D6,corchea C#6,corchea [A5|D6],negra
+
+[A5|D6],negra [A5|C6|E6],negra [D6|C6|F6],negra F6,corchea F6,corchea 
+
+[A5|D6|G6],negra [D6|A6],corchea F6,blanca [A5|F6],corchea [A5|D6],corchea
+
+A5,blanca [A#6|D6|G6],blanca
+
+[A#5|G6],corchea [A#5|D6],corchea A#5,blanca
+
+[C#5|E5],corchea [C#5|E5],negra [D5|G4],negra
+
+[A4|C#5|F5],blanca [D2|D3|D5],redonda
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+G-> 
+BPM = 90
+
+F4,negra G4,negra A4,negra G4,negra 
+F4,negra G4,negra C4,negra
+A4,negra G4,negra F4,negra D4,negra C4,negra
+F4,negra G4,negra A4,negra A#4,negra A4,negra 
+G4,negra F4,negra G4,negra C4,negra
+A4,negra C4,negra D4,negra C4,negra G4,negra
